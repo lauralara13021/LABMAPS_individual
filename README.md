@@ -21,7 +21,6 @@ https://github.com/othneildrew/Best-README-Template
 ## Nombre y código
 Nombre: Laura Valentina Lara Diaz
 Código: 201912967
-**DISCLib** is a Non-Object-Oriented Python library for teaching data structure and algorithms at Universidad de los Andes, developed by professors and staff in the Faculty of Engineering, Department of Systems and Computer Engineer #DISC.
 
 [View Demo and Examples][demo-url] · [Report Bug][bugs-url] · [Request Feature][issues-url]
 
